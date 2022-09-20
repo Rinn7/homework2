@@ -4,5 +4,7 @@ public class Main {
         System.out.println(dog);
         var cat = 3.6;
         System.out.println(cat);
+        var paper = 763789;
+        System.out.println(paper);
     }
 }
